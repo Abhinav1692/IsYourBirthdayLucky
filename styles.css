@@ -47,12 +47,12 @@ textarea{
    font-size: large;
    font-weight: bold;
 }
-button:hover{
+/* button:hover{
    background-color:black;
 }
-label:hover{
-   background-color:var(--secondary-color);
-}
-button:visited{
+/* label:hover{ */
+   /* background-color:var(--secondary-color);
+} */
+/* button:visited{
    color: green;
-}
+} */ 
